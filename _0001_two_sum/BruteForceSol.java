@@ -1,4 +1,4 @@
-package TwoSum;
+package _0001_two_sum;
 
 // Checks every possible pair in the array and returns the indices when the target sum is found.
 

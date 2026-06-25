@@ -1,8 +1,8 @@
-package ContainsDuplicate;
+package _0217_contains_duplicate;
 
 import java.util.HashMap;
 
-public class Sol {
+public class HashMapSol {
     public static boolean containsDuplicate(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
 
